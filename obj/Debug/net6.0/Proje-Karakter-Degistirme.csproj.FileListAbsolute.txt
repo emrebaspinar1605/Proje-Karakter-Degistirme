@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\bin\Debug\net6.0\Proje-Karakter-Degistirme.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\bin\Debug\net6.0\Proje-Karakter-Degistirme.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\bin\Debug\net6.0\Proje-Karakter-Degistirme.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\bin\Debug\net6.0\Proje-Karakter-Degistirme.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\bin\Debug\net6.0\Proje-Karakter-Degistirme.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\refint\Proje-Karakter-Degistirme.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\Proje-Karakter-Degistirme.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Karakter-Degistirme\obj\Debug\net6.0\ref\Proje-Karakter-Degistirme.dll
